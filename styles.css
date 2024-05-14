@@ -1,1 +1,32 @@
 /* your code */
+table{
+	border: 0.5px solid white;
+	
+	border-collapse:collapse;
+	border-radius:20px;
+	margin: 10px;
+	padding: 20px;
+}
+th{
+	border: 0.5px solid white;
+	
+	width: 50%;
+	height: 10%;
+	padding: 10px
+	
+}
+td{
+	border: 0.5px solid white;
+	background-color:#b3b3b3;
+	padding: 10px
+}
+#heading{
+	padding: 10px;
+	background-color:#4080bf;
+	color:white;
+}
+
+
+.rowwhite{
+	background-color: white;
+}
